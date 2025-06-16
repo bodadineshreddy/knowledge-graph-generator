@@ -1,0 +1,21 @@
+sections:
+  - name: Summary
+    required: true
+    type: text
+  - name: Description
+    required: true
+    type: text
+  - name: Priority
+    required: true
+    type: enum
+    values: [High, Medium, Low]
+
+relationships:
+  - name: clone
+    type: explicit
+  - name: blocks
+    type: explicit
+  - name: relates_to
+    type: explicit
+
+similarity_threshold: 0.8

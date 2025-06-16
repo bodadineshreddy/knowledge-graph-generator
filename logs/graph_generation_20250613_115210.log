@@ -1,0 +1,4 @@
+2025-06-13 11:52:10,794 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:52:10,795 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:52:10,795 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:52:10,795 - GraphGenerator - INFO - Found explicit connection: ENT-22970 -> PORT-133061 (metadata: {"relationship": "clone"})

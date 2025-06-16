@@ -1,0 +1,10 @@
+2025-06-13 11:43:02,732 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:43:02,732 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:43:02,732 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:43:02,732 - GraphGenerator - INFO - Found explicit connection: ENT-22970 -> PORT-133061 (metadata: {"relationship": "clone"})
+2025-06-13 11:43:02,733 - GraphGenerator - ERROR - Error in similarity_calculation: 'super' object has no attribute 'calculate_similarity'
+Context data: {"tree1_id": "", "tree2_id": ""}
+2025-06-13 11:43:02,733 - GraphGenerator - ERROR - Error in similarity_calculation: 'super' object has no attribute 'calculate_similarity'
+Context data: {"tree1_id": "", "tree2_id": ""}
+2025-06-13 11:43:02,733 - GraphGenerator - ERROR - Error in similarity_calculation: 'super' object has no attribute 'calculate_similarity'
+Context data: {"tree1_id": "", "tree2_id": ""}

@@ -1,0 +1,7 @@
+2025-06-13 11:53:04,489 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:53:04,489 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:53:04,489 - GraphGenerator - INFO - Processed ticket : 0 nodes, 0 edges
+2025-06-13 11:53:04,489 - GraphGenerator - INFO - Found explicit connection: ENT-22970 -> PORT-133061 (metadata: {"relationship": "clone"})
+2025-06-13 11:53:35,870 - GraphGenerator - INFO - Found implicit connection:  ->  (metadata: {"similarity": 0.9999999999999998})
+2025-06-13 11:53:35,870 - GraphGenerator - INFO - Found implicit connection:  ->  (metadata: {"similarity": 0.9999999999999998})
+2025-06-13 11:53:35,870 - GraphGenerator - INFO - Found implicit connection:  ->  (metadata: {"similarity": 0.9999999999999998})

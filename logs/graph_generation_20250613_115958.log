@@ -1,0 +1,24 @@
+2025-06-13 11:59:58,639 - GraphGenerator - INFO - Processed ticket ENT-22970: 3 nodes, 2 edges
+2025-06-13 11:59:58,639 - GraphGenerator - INFO - Processed ticket PORT-133061: 3 nodes, 2 edges
+2025-06-13 11:59:58,639 - GraphGenerator - INFO - Processed ticket ENT-1744: 3 nodes, 2 edges
+2025-06-13 11:59:58,639 - GraphGenerator - INFO - Processed ticket SEC-789: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket SEC-790: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket PERF-456: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket UI-234: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket UI-235: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket INFRA-567: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Processed ticket DOC-890: 3 nodes, 2 edges
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: ENT-22970 -> PORT-133061 (metadata: {"relationship": "clone"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: ENT-22970 -> SEC-789 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: PORT-133061 -> SEC-789 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: ENT-1744 -> PERF-456 (metadata: {"relationship": "blocks"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: SEC-789 -> SEC-790 (metadata: {"relationship": "blocks"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: SEC-790 -> PORT-133061 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: PERF-456 -> ENT-1744 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,640 - GraphGenerator - INFO - Found explicit connection: UI-234 -> UI-235 (metadata: {"relationship": "blocks"})
+2025-06-13 11:59:58,641 - GraphGenerator - INFO - Found explicit connection: UI-235 -> UI-234 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,641 - GraphGenerator - INFO - Found explicit connection: INFRA-567 -> PERF-456 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,641 - GraphGenerator - INFO - Found explicit connection: INFRA-567 -> ENT-1744 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,641 - GraphGenerator - INFO - Found explicit connection: DOC-890 -> SEC-790 (metadata: {"relationship": "relates_to"})
+2025-06-13 11:59:58,641 - GraphGenerator - INFO - Found explicit connection: DOC-890 -> PERF-456 (metadata: {"relationship": "relates_to"})
+2025-06-13 12:07:23,451 - GraphGenerator - INFO - Found implicit connection: UI-234 -> UI-235 (metadata: {"similarity": 0.8299951546519116})
